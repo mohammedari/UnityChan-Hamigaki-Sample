@@ -7,7 +7,7 @@ Demo movie is available at https://www.youtube.com/watch?v=d3nQTQ2up34
 How to use
 -----
 
-1. Craft NyAR marker box
+1. Craft NyAR marker box (see nyar-cube.pdf)
 1. Open project in Unity
 1. Open main scene file at project root
 1. Play and enjoy
